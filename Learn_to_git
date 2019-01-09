@@ -17,3 +17,11 @@ How to push it back to the remote repo on GitHub.
 How to initiate a local directory and push it onto GitHub remotely.
   git init //initiate your directory as a git repo
   git pull //get all the changes from remote to local repo
+
+1.8
+How to use github to get github pages directly.
+  -make the branch "gh-pages" as the default page
+  -delete the master branch
+  -go to the github setting to get the url to the github page
+  -you can make a index.html to get a default display page
+  
