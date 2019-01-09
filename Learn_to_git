@@ -6,6 +6,12 @@ https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 How to download your github repo into local computer, and make changes to it.
 How to push it back to the remote repo on GitHub.
 
+  git push origin //add stuffs of the local repo to the remote repo
+  git remote -v //tells you where your remote are
+  git config --list //tells you the setting of your git
+  git add filename //stage the files to be commit
+  git commit -m "Message for the changes onto your file" //commit your files + messages
+
 1.7
 How to initiate a local directory and push it onto GitHub remotely.
-
+  git init //initiate your directory as a git repo
