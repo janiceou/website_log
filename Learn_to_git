@@ -15,3 +15,4 @@ How to push it back to the remote repo on GitHub.
 1.7
 How to initiate a local directory and push it onto GitHub remotely.
   git init //initiate your directory as a git repo
+  git pull //get all the changes from remote to local repo
