@@ -1,2 +1,3 @@
 Java version: JDK 11.0.1
 Netbeans: 8.2
+Note: higher version of JDK will not work with NetBeans 8.2.
